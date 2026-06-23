@@ -88,6 +88,5 @@ DevelopersHub_Internship/
 - **Scikit-learn** – machine learning models and evaluation
 
 ## 📬 Contact
-**Email:** [your-email@example.com]  
-**LinkedIn:** [your-linkedin-url]  
-**GitHub:** [your-github-url]
+**Email:** usamazulfiqar173@gmail.com
+**GitHub:** https://github.com/UsamaZulfiqar-7
