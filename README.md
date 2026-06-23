@@ -1,6 +1,7 @@
 # DevelopersHub Corporation – Data Science & Analytics Internship
 
 **Intern:** Usama Zulfiqar
+
 **Institution:** University of Lahore – Computer Science  
 **Due Date:** 26th June 2026  
 **Tasks Completed:** All 5 / 5  
