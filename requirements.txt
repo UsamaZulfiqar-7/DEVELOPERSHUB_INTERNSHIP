@@ -1,0 +1,32 @@
+# ============================================================
+#   DevelopersHub Corporation – Data Science Internship
+#   requirements.txt – All 5 Tasks
+# ============================================================
+#
+#   Install command:
+#   pip install -r requirements.txt
+#
+# ============================================================
+
+# ── Core Data Handling ───────────────────────────────────────
+pandas>=2.0.0           # Data loading, cleaning, manipulation (all tasks)
+numpy>=1.24.0           # Numerical computations (all tasks)
+
+# ── Data Visualization ───────────────────────────────────────
+matplotlib>=3.7.0       # Base plotting library (all tasks)
+seaborn>=0.12.0         # Statistical visualizations, heatmaps (all tasks)
+
+# ── Machine Learning ─────────────────────────────────────────
+scikit-learn>=1.3.0     # Models: LogisticRegression, DecisionTree,
+                        # RandomForest, LinearRegression,
+                        # LabelEncoder, StandardScaler,
+                        # train_test_split, metrics (Tasks 2,3,4,5)
+
+# ── Jupyter Notebook ─────────────────────────────────────────
+jupyter>=1.0.0          # Run .ipynb notebooks (all tasks)
+notebook>=7.0.0         # Jupyter Notebook interface
+nbformat>=5.9.0         # Notebook file format support
+
+# ── Optional but Recommended ─────────────────────────────────
+ipykernel>=6.0.0        # Python kernel for Jupyter
+ipython>=8.0.0          # Enhanced interactive Python shell
